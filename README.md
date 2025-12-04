@@ -73,14 +73,23 @@ pip install -r requirements.txt
 ```
 requirements.txt includes:
 torch
+
 torchvision
+
 opencv-python
+
 numpy
+
 matplotlib
+
 pandas
+
 seaborn
+
 pyyaml
+
 tqdm
+
 ultralytics==8.0.20
 
 
